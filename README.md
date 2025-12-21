@@ -18,6 +18,7 @@ BunnyEra official portal website powered by GitHub Pages, showcasing brand syste
 
 ## 🚀 部署指南 · Deployment Guide
 
-1. 打开仓库 Settings → Pages  
+1. 打开仓库 **Settings → Pages**  
 2. 选择 `main` 分支 → `/root` 目录  
 3. 保存后网站将自动发布到：  
+   👉 https://bunnyera.github.io
